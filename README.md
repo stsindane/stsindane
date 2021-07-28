@@ -13,7 +13,7 @@ __
 ### Connect with me:
 
 [<img align="left" alt="linkedin.com/in/stsindane" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Siyabonga | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yfacebook.svg" />][youtube]
+[<img align="left" alt="Siyabonga | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Siyabonga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Siyabonga | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Siyabonga | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
