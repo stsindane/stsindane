@@ -8,9 +8,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-__
+<br />
 
-### Connect with me:
+### My social links:
 
 [<img align="left" alt="linkedin.com/in/stsindane" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Siyabonga | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
