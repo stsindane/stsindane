@@ -8,8 +8,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<br />
-
+---
 ### My social links:
 
 [<img align="left" alt="linkedin.com/in/stsindane" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
