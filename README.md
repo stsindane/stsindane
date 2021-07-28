@@ -1,6 +1,6 @@
-## Hi there, I'm [Siyabonga][linkedin]
+### Hi there, I'm [Siyabonga][linkedin]
 
-### I'm a Software Developer
+#### I'm a Software Developer
 
 - 👋 Hi, I’m @stsindane
 - 👀 I’m interested in ...
